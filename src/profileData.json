@@ -1,0 +1,79 @@
+{
+	"landing": {
+		"firstName": "Emirhan",
+		"lastName": "Avcı",
+		"phoneNumber": "+90 554 319 16 40",
+		"bio": "I'm a nuclear engineer who's also interested in CS and web development. While working on my Master's degree on Reactor Safety, I pursue my development passion by trying my hand at different small personal projects and of course lots of curious reading. This site is just a peek into what's coming and will be updated/developed constantly.",
+    		"email": "avci.emirhan@outlook.com",
+    		"linkedin": "https://www.linkedin.com/in/emirhanavci/",
+		"github": "https://github.com/AtlasFontaine"
+	},
+	"experience": [
+		{
+				"position": "Intern Engineer",
+				"organization": "TAEK Çekmece Nuclear Research and Training Facility",
+				"aboutWork": "",
+				"fromDate": "June 2017",
+				"toDate": "July 2017"
+		},
+		{
+			"position": "Intern Engineer",
+			"organization": "Yatağan Thermal Power Plant",
+			"aboutWork": "",
+			"fromDate": "July 2016",
+			"toDate": "August 2016"
+		}
+	],
+	"education": [{
+			"university": "Hacettepe University",
+			"degree": "Nuclear Engineering",
+			"gpa": "Master of Science",
+			"fromDate": "February 2020",
+			"toDate": "Ongoing"
+		},
+    {
+			"university": "Hacettepe University",
+			"degree": "Nuclear Engineering",
+			"gpa": "Bachelor of Science",
+			"fromDate": "September 2013",
+			"toDate": "August 2019"
+		}
+
+	],
+	"skills": [{
+			"name": "Java"
+		},
+		{
+			"name": "MatLAB"
+		},
+		{
+			"name": "Virtualization"
+		},
+		{
+			"name": "Git"
+		},
+		{
+			"name": "Docker"
+		},
+		{
+			"name": "Serpent"
+		},
+		{
+			"name": "MCNP"
+		},
+		{
+			"name": "COBRA"
+		}
+
+	],
+	"interests": {
+		"paragraphOne": "I enjoy being outside in nature and being engaged in farming at our olive & walnut garden. I'm also fascinated by bees and I'm an aspiring beekeeper in training!",
+		"paragraphTwo": "My other interests consists of cinema, history and sports (especially basketball). I played basketball for different clubs and school teams pretty much all my life."
+	},
+	"awards": [{
+			"awardDetail": "This section will be updated soon! 💪"
+		}
+		
+	]
+}
+
