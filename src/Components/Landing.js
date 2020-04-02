@@ -20,10 +20,10 @@ class Landing extends Component {
           </div>
           <p className="lead mb-5">{this.landingData.bio}</p>
           <div className="social-icons">
-            <a href={this.landingData.linkedin}>
+            <a href={this.landingData.linkedin} target="_blank">
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
-            <a href={this.landingData.github}>
+            <a href={this.landingData.github} target="_blank">
               <FontAwesomeIcon icon={faGithub} />
             </a>
           </div>
