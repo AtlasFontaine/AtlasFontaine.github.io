@@ -74,6 +74,13 @@
 			"awardDetail": "This section will be updated soon! 💪"
 		}
 		
-	]
+		
+	],
+	"readings": [{
+		"bookDetail": "Reading \"The JHipster Mini-Book\" by Matt Raible"
+	},
+	{
+		"bookDetail": "Working on a TOP SECRET project."
+	}]
 }
 
